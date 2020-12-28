@@ -1,0 +1,168 @@
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.exe
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.dll
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.dll
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lab 3 - Web Crawler\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\UIT\GiangDay\ECDESIGN\Labs\2020\Lap 3 - Web Crawler (day 2)\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Đại học\Năm 3\TKHT-TMDT\JomashopWooCommerceCrawler\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Sigma\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Crawlwebsite\Sony\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\CrawlLenses\Lighting\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
+D:\zmemories\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\zmemories\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\zmemories\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\zmemories\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\zmemories\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\zmemories\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\zmemories\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\zmemories\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\zmemories\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Đại học\Năm 3\TKHT-TMDT\Digital\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
